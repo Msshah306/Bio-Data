@@ -341,7 +341,7 @@ span{
 .images img{
     height: 100%;
     position: absolute;
-    left: 116%;
+    left: 130%;
     bottom: 180px;
     transform: translateX(-50) ;
     transition: bottom 1s, left 1s;
