@@ -304,8 +304,8 @@ span{
         display: inline-block;
         color: black;
         list-style: none;
-        margin: 1px 1px;
-        font-size: 10px;
+        margin: 0.25% 0.25%;
+        font-size: 65%;
         align-items: center;
     }
     
@@ -313,7 +313,7 @@ span{
         text-decoration: none;
         color: black;
         font-weight: bold;
-        padding: 8px 4px;
+        padding: 4px 2px;
     }
     
     nav ul li a:hover{
@@ -341,7 +341,7 @@ span{
 .images img{
     height: 100%;
     position: absolute;
-    left: 88%;
+    left: 116%;
     bottom: 180px;
     transform: translateX(-50) ;
     transition: bottom 1s, left 1s;
@@ -366,7 +366,7 @@ span{
 .hero1{
     position: relative;
     width: 100%;
-    height: 45vh;
+    height: 65vh;
     background:  #a3bae4;
 
 }
@@ -374,7 +374,7 @@ span{
 .hero2{
     position: relative;
     width: 100%;
-    height: 45vh;
+    height: 65vh;
     background:  #eff4fd;
 }
 
@@ -400,7 +400,7 @@ span{
 
 
 .card{
-    height: 300px; 
+    height: 350px; 
     width: 335px;
     padding: 20px 30px;
     background-color: #be7413b9;
@@ -500,7 +500,7 @@ span{
 .hero4{
     position: relative;
     width: 100%;
-    height: 38vh;
+    height: 45vh;
     margin-top: 140px;
     background:  #a3bae4;
 }
@@ -531,7 +531,7 @@ span{
 .hero5{
     position: relative;
     width: 100%;
-    height: 20vh;
+    height: 25vh;
     background:  #eff4fd;
     line-break: loose;  
 }
@@ -583,4 +583,5 @@ span{
 }
 
 }
+
 
